@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Alexander</h1>
+<h1 align="center">Hi, I'm Alexander</h1>
 <h3 align="center">Unlocking the Secrets of Alexander: A Developer's Journey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexvoiceover" alt="alexvoiceover" /></a> </p>
 
 - 🔭 I’m currently working on **Building an app that fetches data from multiple APIs, enhancing user experience with search and filters.**
 
-- 🌱 I’m currently learning **JavaScript Concurrency,**
+- 🌱 I’m currently learning **JavaScript Concurrency, AWS, Docker, Terraform, Insomnia**
+
+- 💬 Ask me about **3D Printing, Sound Engineering**
+
+- ⚡ Fun fact **I provided the voice for a Stormtrooper action figure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
