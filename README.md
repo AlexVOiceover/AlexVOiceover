@@ -1,3 +1,6 @@
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Build%20Passing-brightgreen)
+
+
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">Unlocking the Secrets of Alexander: A Developer's Journey</h3>
 
