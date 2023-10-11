@@ -1,9 +1,3 @@
-### My GitHub Activity
-
-<iframe src="https://github.com/users/AlexVOiceover/contributions"></iframe>
-
-
-
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">Unlocking the Secrets of Alexander: A Developer's Journey</h3>
 
