@@ -3,13 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexvoiceover" alt="alexvoiceover" /></a> </p>
 
-- 🔭 I’m currently working on **Building an app that fetches data from multiple APIs, enhancing user experience with search and filters.**
+🤖 Helping Founders and Coders reimagine the future of software development by integrating AI-driven workflows and emerging technologies into training and practice.
 
-- 🌱 I’m currently learning **JavaScript Concurrency, AWS, Docker, Terraform, Insomnia**
+🧠 I’m exploring the intersection of electronics, UAV systems, and software automation, focusing on drone diagnostics and firmware integration.
 
-- 💬 Ask me about **3D Printing, Sound Engineering**
+🧰 I design and build custom FPV drones and embedded systems using Arduino, 3D printing, and rapid prototyping techniques.
 
-- ⚡ Fun fact **I provided the voice for a Stormtrooper action figure**
+🎛️ I continue to work as a sound engineer and voice actor, managing international post-production projects for film, TV, and games.
+
+☁️ Currently levelling up my skills in AWS, Docker, and Terraform to improve automation and infrastructure deployment for future IoT and UAV applications.
+
+⚡ Fun fact **I provided the voice for a Stormtrooper action figure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
